@@ -20,7 +20,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimsuckhyun&theme=nord_dark)
 
   
-  ### 👉 [About Me!](https://80000coding.oopy.io/aboutme) 👈
+  ### 👉 [About Me!]👈
 
 <br/>
 
