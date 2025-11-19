@@ -18,7 +18,7 @@
 
 **🎓 Education & Experience**
 - **Boostcamp AITech 7기** - AI 개발 부트캠프 수료
-- **[Intelligence and Interactive Systems Lab](https://i2slab.skku.edu/)** - Research Intern (Sep 2024 ~ Present)
+- **[Generative Artificial Intelligence Lab](https://aicau.co.kr/)** - Research Intern (Sep 2024 ~ Present)
 
 <br/>
 
