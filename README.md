@@ -18,7 +18,7 @@
 
 **🎓 Education & Experience**
 - **Boostcamp AITech 7기** - AI 개발 부트캠프 수료
-- **[Generative Artificial Intelligence Lab](https://aicau.co.kr/)** - Research Intern (Sep 2024 ~ Present)
+- **[Generative Artificial Intelligence Lab](https://aicau.co.kr/)** - Research Intern (Nov 2025 ~ Present)
 
 <br/>
 
